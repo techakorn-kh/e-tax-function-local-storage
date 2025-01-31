@@ -1,2 +1,2 @@
 # e-tax-function-local-storage
-E-TAX Function Generate File Send to Local Storage
+E-TAX function generate File send to Local Storage
